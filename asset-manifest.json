@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-simple-burger-maker/static/css/main.812876ec.chunk.css",
+    "main.js": "/react-simple-burger-maker/static/js/main.be548146.chunk.js",
+    "main.js.map": "/react-simple-burger-maker/static/js/main.be548146.chunk.js.map",
+    "runtime-main.js": "/react-simple-burger-maker/static/js/runtime-main.ff474625.js",
+    "runtime-main.js.map": "/react-simple-burger-maker/static/js/runtime-main.ff474625.js.map",
+    "static/js/2.66427933.chunk.js": "/react-simple-burger-maker/static/js/2.66427933.chunk.js",
+    "static/js/2.66427933.chunk.js.map": "/react-simple-burger-maker/static/js/2.66427933.chunk.js.map",
+    "index.html": "/react-simple-burger-maker/index.html",
+    "precache-manifest.82c49f02827c41644e688a8410e705f4.js": "/react-simple-burger-maker/precache-manifest.82c49f02827c41644e688a8410e705f4.js",
+    "service-worker.js": "/react-simple-burger-maker/service-worker.js",
+    "static/css/main.812876ec.chunk.css.map": "/react-simple-burger-maker/static/css/main.812876ec.chunk.css.map",
+    "static/js/2.66427933.chunk.js.LICENSE.txt": "/react-simple-burger-maker/static/js/2.66427933.chunk.js.LICENSE.txt",
+    "static/media/burger.css": "/react-simple-burger-maker/static/media/top.719e7ddb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff474625.js",
+    "static/js/2.66427933.chunk.js",
+    "static/css/main.812876ec.chunk.css",
+    "static/js/main.be548146.chunk.js"
+  ]
+}
