@@ -1,0 +1,104 @@
+.burger-view{
+    height: 290px;
+    width: 100%;
+    overflow: auto;
+}
+
+.burger-view p{
+    text-align: center;
+}
+
+.burger-ingredients-block{
+    background-color: #f4b46c;
+    margin: 30px auto 0;
+    display: table;
+    max-width: 200px;
+    width: 100%;
+    border-radius: 3px;
+    padding: 20px;
+    text-align: center;
+}
+
+.burger-ingredients-block p{
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.ingredients-btn-group{
+    margin: 0 0 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ingredient-btn{
+    border: 0;
+    background-color: #c17116;
+    color: #fff;
+    padding: 5px;
+    cursor: pointer;
+    display: table;
+    width: 95px;
+}
+
+.top-side{
+    background-image: url('../../assets/top.jpg');
+    background-size: 300px;
+    height: 110px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bottom-side{
+    background-image: url('../../assets/bottom.jpg');
+    background-size: 300px;
+    height: 60px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.lettuce-side{
+    background-image: url('../../assets/lettuce.jpg');
+    background-size: 300px;
+    height: 27px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.tomato-side{
+    background-image: url('../../assets/tomato.jpg');
+    background-size: 300px;
+    height: 15px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cheese-side{
+    background-image: url('../../assets/cheese.jpg');
+    background-size: 300px;
+    height: 15px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.meat-side{
+    background-image: url('../../assets/meat.jpg');
+    background-size: 300px;
+    height: 27px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
